@@ -17,5 +17,5 @@ To run the code, you need to have **Manim** and **NumPy** installed. Follow the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/linear-regression-manim.git
-   cd linear-regression-manim
+   git clone https://github.com/your-username/linear_regression_manim.git
+   cd linear_regression_manim
