@@ -23,13 +23,14 @@ To run the code, you need to have **Manim** and **NumPy** installed. Follow the 
    * For macOS/Linux:
    ```bash
    python3 -m venv venv
-   source venv/bin/activate```
-* For Windows:
+   source venv/bin/activate
+   ```
+   * For Windows:
   ```bash
   python -m venv venv
   venv\Scripts\activate
-
-
-   
-
-   
+  ```
+3. Install the required dependencies manually:
+```bash
+pip install manim numpy
+```   
