@@ -34,3 +34,9 @@ To run the code, you need to have **Manim** and **NumPy** installed. Follow the 
 ```bash
 pip install manim numpy
 ```   
+### 🔧 **Running the Code**
+
+1. After setting up the environment, you can generate the animation by running the following command:
+   ```bash
+   manim -pql linear_regression.py LinearRegressionScene
+   ```
