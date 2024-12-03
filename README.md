@@ -26,10 +26,10 @@ To run the code, you need to have **Manim** and **NumPy** installed. Follow the 
    source venv/bin/activate
    ```
    * For Windows:
-  ```bash
-  python -m venv venv
-  venv\Scripts\activate
-  ```
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   ```
 3. Install the required dependencies manually:
 ```bash
 pip install manim numpy
