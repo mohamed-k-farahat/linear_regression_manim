@@ -19,3 +19,10 @@ To run the code, you need to have **Manim** and **NumPy** installed. Follow the 
    ```bash
    git clone https://github.com/your-username/linear_regression_manim.git
    cd linear_regression_manim
+2. Create and activate a virtual environment (optional but recommended):
+   * For macOS/Linux:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+
+   
